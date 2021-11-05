@@ -1,6 +1,7 @@
 # javascript-info-tasks
 
 https://javascript.info/variables
+
 https://javascript.info/operators
 
 # Variables
